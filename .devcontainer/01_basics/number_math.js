@@ -14,6 +14,8 @@ console.log(otherNumber.toPrecision(3));
 const hundreds = 100000000;
 console.log(hundreds.toLocaleString('en-In'));
 
+// +++++++++++++++++++++++++++++++<Math>++++++++++++++++++++++++++++++++++++++
+
 
 console.log(Math.random());
 console.log((Math.random())*10);
