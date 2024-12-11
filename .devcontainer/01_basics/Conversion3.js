@@ -30,3 +30,15 @@ let stringSomeNumber = String(someNumber);
 
 console.log(stringSomeNumber);
 console.log(typeof stringSomeNumber);
+
+
+
+
+//-------------------------*****----------------------------------------
+/* 
+       Primitive Datatype:-
+       7 type: String, Number, Boolean, Null, Undefined, Symbol, Bigint
+
+       Nonprimitive Datatype (Referance) :-
+       Array, Object, Function.
+*/
