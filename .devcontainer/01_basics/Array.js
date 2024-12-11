@@ -27,3 +27,16 @@ const sArr2 = NextArr.splice(2, 3);
 console.log(sArr2);
 
 console.log(NextArr);
+
+
+// console.log(Array.isArray("Abhishek"));               // Something went wrong;
+// console.log(Array.from("Abhishek"));               // Something went wrong;
+// console.log(Array.from(name: "Abhishek"));               // Something went wrong;         intresting;
+
+
+let score1 = 100;
+let score2 = 200;
+let score3 = 300;
+
+console.log(Array.of(score1, score2, score3));
+
