@@ -7,8 +7,8 @@ function chai() {
 }
 chai();                          // This is not a IIFE technique;
 
-(function chaiCode() {                              // This is a named IIFE;
-    console.log(`This is IIFE technique`);         // This is IIFE technique ;
+(function chaiCode() {                               // This is a named IIFE;
+    console.log(`This is IIFE technique`);           // This is IIFE technique ;
 }) ();                                               // We use this if we don't want to let this function intrupt from global pollution;
 
 
